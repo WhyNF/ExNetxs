@@ -3,6 +3,7 @@ import socket
 import threading
 import time
 import sys
+import system
 
 system.os("bash lock.sh")
 
