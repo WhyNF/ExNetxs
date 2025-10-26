@@ -11,7 +11,7 @@ print("--from WNF207xs-192.000")
 print("01010111")
 
 
-target_ip = input("Send IP target0 : ").strip()
+target_ip = input("Send - IP target0 : ").strip()
 
 if not target_ip or "." not in target_ip:
     print("[!] IP Not Valid.")
@@ -92,4 +92,4 @@ except KeyboardInterrupt:
 print("[!!!] Done.")
 print(" Target in Local Network : Crash - Bootloop - Os Hard")
 print(" Thanks to WNF207xs & WedzGPT")
-print(" You A Winner And You A Black -h4T)
+print(" You A Winner And You A Black -h4T")
