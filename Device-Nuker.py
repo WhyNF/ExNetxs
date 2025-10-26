@@ -3,13 +3,13 @@ import socket
 import threading
 import time
 import sys
-import system
 
-system.os("bash lock.sh")
 
-print(" DEVICE NUKER v2.0 — By WNF207xs")
-print("we are network intruders. we are network controllers. we are online killers. if you are underestimated- Take revenge.")
-print("--from WNF207xs-192.000")
+os.system("bash lock.sh")
+
+print(" DEVICE-NUKER 207 — By WNF207xs")
+print("we are network intruders. we are network controllers.")
+print("-from WNF207xs-192.xxx")
 print("01010111")
 
 
